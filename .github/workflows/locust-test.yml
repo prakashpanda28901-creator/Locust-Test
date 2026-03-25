@@ -35,4 +35,4 @@ jobs:
           with:
             name: locust-csv-report
             path: |
-              locust_report_*.csvs
+              locust_report_*.csv
