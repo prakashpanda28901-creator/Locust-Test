@@ -1,4 +1,4 @@
-name= Locust Stress Test
+name: Locust Stress Test
 
 on:
     push:
